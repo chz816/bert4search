@@ -1,6 +1,8 @@
-# bert4search
+# Search-Based Peer Firm Identification: A Contextual Neural Language Modeling Approach
 
-This repo is created for the idea using __Bert4Search__ (temp name). The project is trying to bring the state of art from Natural Language Processing, especially the BERT model into the search sequential analysis.
+This repo is created for Rachel Zheng's summer paper __Search-Based Peer Firm Identification: A Contextual Neural Language Modeling Approach__. The project is trying to bring the state of art from Natural Language Processing, especially the BERT model into the search sequential analysis.
+
+In this project, we proposed a nove method to understand and analyze the investors' search activities. The assumption is: in a short timestep, investors may look for economically related firms for comparision purpose. By analyzing the search sequences, we try to identify economic benchmarks, by sharing the spirit of leveraging the key concepts in natural language processing.
 
 ## Local Setup
 

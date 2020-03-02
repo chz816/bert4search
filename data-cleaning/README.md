@@ -1,12 +1,8 @@
 # bert4search
 
-##  Pre-Training
-
-This folder is created for applying the pre-training method in the bert4search project.
-
 ## Data
 
-To pre-train the model, we use the data from Jan 01, 2017 to Jan 31, 2017. To apply the analysis result from EDA report, basic data cleaning is required.  
+To pre-train the model, we use the data from Jan. 01, 2017 to Dec. 31, 2017. To apply the analysis result from EDA report, basic data cleaning is required.  
 
 ## Data Cleaning
 

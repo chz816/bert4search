@@ -1,8 +1,6 @@
-# bert4search
+# Step 1: Data Cleaning
 
-## Data
-
-To pre-train the model, we use the data from Jan. 01, 2017 to Dec. 31, 2017. To apply the analysis result from EDA report, basic data cleaning is required.  
+For thie project, we use EDGAR data from Jan. 01, 2017 to Dec. 31, 2017. To apply the analysis result from EDA report, basic data cleaning is required.  
 
 ## Data Cleaning
 

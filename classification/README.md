@@ -1,13 +1,8 @@
-# bert4search
-
-## Classification Task  
+# Step 3: Classification Task  
 
 This part is to use the pre-training result to find the top 10 related firms for each target firm.
 
-
-Here we use "bert-as-service" to find the top related firms.  
-
-The details for this tool can be found at the official repo: https://github.com/hanxiao/bert-as-service.  
+Here we use "bert-as-service" to find the top related firms. The details for this tool can be found at the official repo: https://github.com/hanxiao/bert-as-service.  
 
 You may need to install the server and client firstly.  
 

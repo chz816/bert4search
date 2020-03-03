@@ -1,9 +1,6 @@
-# bert4search
-
-## Downstream Task
+# Step 4: Evaluation
 
 The downstream task is to check if the top 10 related firms are in the same industrial classification.  
-
 
 ```
 

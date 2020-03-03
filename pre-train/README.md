@@ -1,6 +1,4 @@
-# bert4search
-
-## Pre-Training
+# Step 2: Pre-Training
 
 The pre-training step is learned from the design of the Bidirectional Encoder Representations from Transformers (BERT). Here is the link for the official BERT repo: https://github.com/google-research/bert.  
 

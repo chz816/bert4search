@@ -2,8 +2,6 @@
 
 The downstream task is to check if the top 10 related firms are in the same industrial classification.  
 
-```
-
 ## Industrial Classification Information 
 
 There are three types of most common industrial classification standards:  
